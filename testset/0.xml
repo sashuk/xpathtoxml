@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootelement>
+	<hierarchyelement>
+		<leafelement firstLeafAttribute="leaf 1 attribute 1" secondLeafAttribute="leaf 1 attribute 2">Hierarchy 1 Leaf 1</leafelement>
+		<leafelement firstLeafAttribute="leaf 2 attribute 1" secondLeafAttribute="leaf 2 attribute 2">Hierarchy 1 Leaf 2</leafelement>
+	</hierarchyelement>
+	<hierarchyelement test="hierarchyelement 2 attribute value">
+		<leafelement>Hierarchy 2 Leaf 1</leafelement>
+		<leafelement>Hierarchy 2 Leaf 2</leafelement>
+	</hierarchyelement>
+</rootelement>

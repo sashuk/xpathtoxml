@@ -1,0 +1,40 @@
+{
+	"\/rootelement[1]\/hierarchyelement[1]\/leafelement": {
+		"values": [
+			"Hierarchy 1 Leaf 1",
+			"Hierarchy 1 Leaf 2"
+		],
+		"attributes": [
+			{
+				"name": "firstLeafAttribute",
+				"values": [
+					"leaf 1 attribute 1",
+					"leaf 2 attribute 1"
+				]
+			},
+			{
+				"name": "secondLeafAttribute",
+				"values": [
+					"leaf 1 attribute 2",
+					"leaf 2 attribute 2"
+				]
+			}
+		]
+	},
+	"\/rootelement[1]\/hierarchyelement[2]": {
+		"attributes": [
+			{
+				"name": "test",
+				"values": [
+					"hierarchyelement 2 attribute value"
+				]
+			}
+		]
+	},
+	"\/rootelement[1]\/hierarchyelement[2]\/leafelement": {
+		"values": [
+			"Hierarchy 2 Leaf 1",
+			"Hierarchy 2 Leaf 2"
+		]
+	}
+}
